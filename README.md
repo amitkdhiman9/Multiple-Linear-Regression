@@ -1,8 +1,8 @@
 # Multiple Linear Regression
-**Multiple Linear Regression** is a modeling technique that uses two or more variables to predict a continuous variable. The variable that is being predicted is called the dependent variable, while the variables that are used to predict is called the independent variables. These independent variables can be continuous as well as categorical.
-Why is it called **"Multiple" Linear Regression?** Because it considers "2 or more" independent variables to predict the dependent variable.
-Why is it called **Multiple "Linear" Regression?** Because the dependent and the independent variables have a "linear" relationship between them. If one increases by certain units, the other either increases or decreases by certain units depending on whether they have a positive linear relationship between them or a negative linear relationship between them.
-Why is it called **Multiple Linear "Regression"?** Because the dependent variable is a continuous variable.
+**Multiple Linear Regression** is a modeling technique that uses two or more variables to predict a continuous variable. The variable that is being predicted is called the dependent variable, while the variables that are used to predict is called the independent variables. These independent variables can be continuous as well as categorical. <br>
+Why is it called **"Multiple" Linear Regression?** Because it considers "2 or more" independent variables to predict the dependent variable. <br>
+Why is it called **Multiple "Linear" Regression?** Because the dependent and the independent variables have a "linear" relationship between them. If one increases by certain units, the other either increases or decreases by certain units depending on whether they have a positive linear relationship between them or a negative linear relationship between them. <br>
+Why is it called **Multiple Linear "Regression"?** Because the dependent variable is a continuous variable. <br>
 
 I will be working on a Sales and Market Campaigning Dataset. This dataset will tell us a company's marketing spend on different typesof marketing. Namely TV, Radio and Social Media. This dataset also includes the Sales number taken over a period period of time.
 
